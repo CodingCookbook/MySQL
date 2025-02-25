@@ -17,7 +17,7 @@
 13. MySQL数据库笔记——版本号机制和CAS（Compare And Swap）  
 
 ## 订阅链接
-[公众号「**编程Cookbook**」八股库：MySQL数据库](https://mp.weixin.qq.com/template/article/1740398587/index.html)
+[公众号「**编程Cookbook**」八股库：MySQL数据库](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzA4Mzc2ODc2Ng==&action=getalbum&album_id=3863027493087100937&scene=173&sessionid=1740491728&enterid=1740491801&from_msgid=2247484754&from_itemidx=1&count=3&nolastread=1#wechat_redirect)
 
 
 > 关注公众号「**编程Cookbook**」，获取更多编程学习/面试资料！  
